@@ -3,4 +3,4 @@ ethereum based blockchain quiz
 
 1. Set Server - Local(Mac)
   - nodeJS
-  - nodeJs Librarys: express, cors, dotenv, fs-extran, solc, lodash
+  - nodeJs Packages: express, cors, dotenv, fs-extran, solc, lodash, web3Initializer, truffle-hdwallet-provider-pkey
