@@ -6,4 +6,4 @@ ethereum based blockchain quiz
   - nodeJs Packages: express, cors, dotenv, fs-extran, solc, lodash, web3Initializer, truffle-hdwallet-provider-pkey
 
 2. Blockchain
-  - Contract Address: 0x55667F3a8B189D10C77De248035a1D8754e18065
+  - Contract Address: 0x0138f07305856E5c43829B1F402238ABD6667F20
