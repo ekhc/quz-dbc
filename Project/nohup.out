@@ -1,0 +1,80 @@
+nohup: app.js: No such file or directory
+App listening on 127.0.0.1:4601
+App listening on 127.0.0.1:4601
+0.20.5
+App listening on 127.0.0.1:4601
+0.20.5
+App listening on 127.0.0.1:4601
+undefined
+App listening on 127.0.0.1:4601
+undefined
+App listening on 127.0.0.1:4601
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/ethProject/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/ethProject/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/ethProject/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/ethProject/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/ethProject/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/ethProject/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/ethProject/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/ethProject/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/ethProject/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/ethProject/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/ethProject/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/ethProject/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/ethProject/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/ethProject/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/ethProject/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/ethProject/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/ethProject/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/ethProject/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/ethProject/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/ethProject/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/ethProject/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/ethProject/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/ethProject/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/ethProject/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/ethProject/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/ethProject/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/ethProject/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/ethProject/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/ethProject/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/ethProject/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/ethProject/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/ethProject/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/ethProject/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/ethProject/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/ethProject/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/ethProject/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }

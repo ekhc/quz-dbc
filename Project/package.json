@@ -1,0 +1,38 @@
+{
+  "name": "ethereum-tx-api",
+  "version": "0.0.1",
+  "description": "API Server for Ethereum transaction",
+  "main": "app.js",
+  "scripts": {
+    "devstart": "nodemon app.js",
+    "compile": "node contracts/compile.js",
+    "deploy": "node contracts/deploy.js",
+    "test": "mocha  --timeout 60000"
+  },
+  "keywords": [
+    "API",
+    "Ethereum"
+  ],
+  "author": "modolee_captinchain",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "curl": "^0.1.4",
+    "curl-request": "^1.1.1",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "fs-extra": "^7.0.1",
+    "ganache-cli": "^6.2.3",
+    "jquery": "^3.3.1",
+    "jsdom": "^13.1.0",
+    "lodash": "^4.17.11",
+    "mocha": "^5.2.0",
+    "path": "^0.12.7",
+    "solc": "^0.4.25",
+    "truffle-hdwallet-provider-pkey": "0.0.7-beta.4",
+    "web3": "^1.0.0-beta.36"
+  },
+  "devDependencies": {}
+}
