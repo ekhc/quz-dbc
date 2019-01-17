@@ -19,6 +19,7 @@
     "assert": "^1.4.1",
     "body-parser": "^1.18.3",
     "consolidate": "^0.15.1",
+    "cookie-parser": "^1.4.3",
     "cors": "^2.8.5",
     "curl": "^0.1.4",
     "curl-request": "^1.1.1",
@@ -28,12 +29,15 @@
     "ganache-cli": "^6.2.3",
     "jquery": "^3.3.1",
     "jsdom": "^13.1.0",
+    "jsonwebtoken": "^8.4.0",
     "lodash": "^4.17.11",
     "mocha": "^5.2.0",
+    "nodemon": "^1.18.9",
     "path": "^0.12.7",
     "solc": "^0.4.25",
     "truffle-hdwallet-provider-pkey": "0.0.7-beta.4",
-    "web3": "^1.0.0-beta.36"
+    "web3": "^1.0.0-beta.36",
+    "web3-eth-accounts": "^1.0.0-beta.37"
   },
   "devDependencies": {}
 }

@@ -26,6 +26,7 @@ class ContractBuilder {
        data : '0x' + contractObj.bytecode
    });
    console.log('Deploy Gas (*10% Add on) : ' + parseInt(gas * GAS_LIMIT_MULTIPLE));
+   console.log('Result getAccount : ', typeof(args));
 
    const result = await new web3.eth
      .Contract(JSON.parse(contractObj.interface))

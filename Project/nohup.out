@@ -78,3 +78,941 @@ Deploy Gas (*10% Add on) : 498143
   arg: 'initOwners',
   coderType: 'array',
   value: undefined }
+undefined
+App listening on 127.0.0.1:4601
+undefined
+App listening on 127.0.0.1:4601
+undefined
+App listening on 127.0.0.1:4601
+Error: Cannot find module 'html'
+    at Function.Module._resolveFilename (module.js:555:15)
+    at Function.Module._load (module.js:482:25)
+    at Module.require (module.js:604:17)
+    at require (internal/module.js:11:18)
+    at new View (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/view.js:81:14)
+    at Function.render (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/application.js:570:12)
+    at ServerResponse.render (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/response.js:1008:7)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/routes/index.js:10:7
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:275:10)
+    at cors (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:188:7)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:224:17
+    at originCallback (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:214:15)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+undefined
+App listening on 127.0.0.1:4601
+Error: Cannot find module 'html'
+    at Function.Module._resolveFilename (module.js:555:15)
+    at Function.Module._load (module.js:482:25)
+    at Module.require (module.js:604:17)
+    at require (internal/module.js:11:18)
+    at new View (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/view.js:81:14)
+    at Function.render (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/application.js:570:12)
+    at ServerResponse.render (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/response.js:1008:7)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/routes/index.js:10:7
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:275:10)
+    at cors (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:188:7)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:224:17
+    at originCallback (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:214:15)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+Error: Cannot find module 'html'
+    at Function.Module._resolveFilename (module.js:555:15)
+    at Function.Module._load (module.js:482:25)
+    at Module.require (module.js:604:17)
+    at require (internal/module.js:11:18)
+    at new View (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/view.js:81:14)
+    at Function.render (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/application.js:570:12)
+    at ServerResponse.render (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/response.js:1008:7)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/routes/index.js:10:7
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:275:10)
+    at cors (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:188:7)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:224:17
+    at originCallback (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:214:15)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+Error: Cannot find module 'html'
+    at Function.Module._resolveFilename (module.js:555:15)
+    at Function.Module._load (module.js:482:25)
+    at Module.require (module.js:604:17)
+    at require (internal/module.js:11:18)
+    at new View (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/view.js:81:14)
+    at Function.render (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/application.js:570:12)
+    at ServerResponse.render (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/response.js:1008:7)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/routes/index.js:10:7
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:275:10)
+    at cors (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:188:7)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:224:17
+    at originCallback (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:214:15)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+Error: Cannot find module 'html'
+    at Function.Module._resolveFilename (module.js:555:15)
+    at Function.Module._load (module.js:482:25)
+    at Module.require (module.js:604:17)
+    at require (internal/module.js:11:18)
+    at new View (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/view.js:81:14)
+    at Function.render (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/application.js:570:12)
+    at ServerResponse.render (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/response.js:1008:7)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/routes/index.js:10:7
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:275:10)
+    at cors (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:188:7)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:224:17
+    at originCallback (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:214:15)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+Error: Cannot find module 'html'
+    at Function.Module._resolveFilename (module.js:555:15)
+    at Function.Module._load (module.js:482:25)
+    at Module.require (module.js:604:17)
+    at require (internal/module.js:11:18)
+    at new View (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/view.js:81:14)
+    at Function.render (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/application.js:570:12)
+    at ServerResponse.render (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/response.js:1008:7)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/routes/index.js:10:7
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:275:10)
+    at cors (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:188:7)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:224:17
+    at originCallback (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:214:15)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+undefined
+App listening on 127.0.0.1:4601
+Error: Failed to lookup view "./main/index.html" in views directory "/Users/leekyungyoung/blockchain/quz-dbc/Project/views"
+    at Function.render (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/application.js:580:17)
+    at ServerResponse.render (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/response.js:1008:7)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/routes/index.js:16:7
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:275:10)
+    at cors (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:188:7)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:224:17
+    at originCallback (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:214:15)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:317:13)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:275:10)
+    at expressInit (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/middleware/init.js:40:5)
+Error: Failed to lookup view "./main/index.html" in views directory "/Users/leekyungyoung/blockchain/quz-dbc/Project/views"
+    at Function.render (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/application.js:580:17)
+    at ServerResponse.render (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/response.js:1008:7)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/routes/index.js:16:7
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:275:10)
+    at cors (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:188:7)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:224:17
+    at originCallback (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:214:15)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:317:13)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:275:10)
+    at expressInit (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/middleware/init.js:40:5)
+undefined
+App listening on 127.0.0.1:4601
+Error: Failed to lookup view "index.html" in views directory "/Users/leekyungyoung/blockchain/quz-dbc/Project/views"
+    at Function.render (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/application.js:580:17)
+    at ServerResponse.render (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/response.js:1008:7)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/routes/index.js:16:7
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:275:10)
+    at cors (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:188:7)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:224:17
+    at originCallback (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:214:15)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:317:13)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:275:10)
+    at expressInit (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/middleware/init.js:40:5)
+undefined
+App listening on 127.0.0.1:4601
+Unhandled rejection Error: Cannot find module 'mustache'
+    at Function.Module._resolveFilename (module.js:555:15)
+    at Function.Module._load (module.js:482:25)
+    at Module.require (module.js:604:17)
+    at require (internal/module.js:11:18)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/consolidate/lib/consolidate.js:1045:60
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/consolidate/lib/consolidate.js:161:5
+    at Promise._execute (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/bluebird/js/release/debuggability.js:313:9)
+    at Promise._resolveFromExecutor (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/bluebird/js/release/promise.js:483:18)
+    at new Promise (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/bluebird/js/release/promise.js:79:10)
+    at promisify (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/consolidate/lib/consolidate.js:154:10)
+    at Function.exports.mustache.render (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/consolidate/lib/consolidate.js:1044:10)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/consolidate/lib/consolidate.js:181:27
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/consolidate/lib/consolidate.js:101:5
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:528:3)
+Unhandled rejection Error: Cannot find module 'mustache'
+    at Function.Module._resolveFilename (module.js:555:15)
+    at Function.Module._load (module.js:482:25)
+    at Module.require (module.js:604:17)
+    at require (internal/module.js:11:18)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/consolidate/lib/consolidate.js:1045:60
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/consolidate/lib/consolidate.js:161:5
+    at Promise._execute (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/bluebird/js/release/debuggability.js:313:9)
+    at Promise._resolveFromExecutor (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/bluebird/js/release/promise.js:483:18)
+    at new Promise (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/bluebird/js/release/promise.js:79:10)
+    at promisify (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/consolidate/lib/consolidate.js:154:10)
+    at Function.exports.mustache.render (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/consolidate/lib/consolidate.js:1044:10)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/consolidate/lib/consolidate.js:181:27
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/consolidate/lib/consolidate.js:101:5
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:528:3)
+/Users/leekyungyoung/blockchain/quz-dbc/Project/routes/index.js:8
+const engines = require('path');
+      ^
+
+SyntaxError: Identifier 'engines' has already been declared
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:152:10)
+    at Module._compile (module.js:624:28)
+    at Object.Module._extensions..js (module.js:671:10)
+    at Module.load (module.js:573:32)
+    at tryModuleLoad (module.js:513:12)
+    at Function.Module._load (module.js:505:3)
+    at Module.require (module.js:604:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/leekyungyoung/blockchain/quz-dbc/Project/app.js:3:16)
+/Users/leekyungyoung/blockchain/quz-dbc/Project/routes/index.js:8
+const engines = require('path');
+      ^
+
+SyntaxError: Identifier 'engines' has already been declared
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:152:10)
+    at Module._compile (module.js:624:28)
+    at Object.Module._extensions..js (module.js:671:10)
+    at Module.load (module.js:573:32)
+    at tryModuleLoad (module.js:513:12)
+    at Function.Module._load (module.js:505:3)
+    at Module.require (module.js:604:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/leekyungyoung/blockchain/quz-dbc/Project/app.js:3:16)
+undefined
+App listening on 127.0.0.1:4601
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+undefined
+App listening on 127.0.0.1:4601
+(node:43977) UnhandledPromiseRejectionWarning: ReferenceError: alert is not defined
+    at deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/controllers/QUZWalletController.js:10:5)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:317:13)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:275:10)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/raw-body/index.js:224:16)
+    at done (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:159:13)
+    at endReadableNT (_stream_readable.js:1062:12)
+    at process._tickCallback (internal/process/next_tick.js:152:19)
+(node:43977) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:43977) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:43977) UnhandledPromiseRejectionWarning: ReferenceError: alert is not defined
+    at deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/controllers/QUZWalletController.js:10:5)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:317:13)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/express/lib/router/index.js:275:10)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/body-parser/lib/read.js:130:5
+    at invokeCallback (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/raw-body/index.js:224:16)
+    at done (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:159:13)
+    at endReadableNT (_stream_readable.js:1062:12)
+    at process._tickCallback (internal/process/next_tick.js:152:19)
+(node:43977) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+undefined
+App listening on 127.0.0.1:4601
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+Deploy Gas (*10% Add on) : 498143
+{ Error: expected array value (arg="initOwners", coderType="array", value=undefined)
+    at Object.throwError (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/errors.js:68:17)
+    at CoderArray.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:687:20)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:605:59
+    at Array.forEach (<anonymous>)
+    at pack (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:604:12)
+    at CoderTuple.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:764:16)
+    at AbiCoder.encode (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/ethers/utils/abi-coder.js:897:77)
+    at ABICoder.encodeParameters (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-abi/src/index.js:96:27)
+    at /Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:426:24
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:425:12)
+    at Object._processExecuteArguments (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:741:39)
+    at Object._executeMethod (/Users/leekyungyoung/blockchain/quz-dbc/Project/node_modules/web3-eth-contract/src/index.js:766:54)
+    at Function.deploy (/Users/leekyungyoung/blockchain/quz-dbc/Project/helpers/contractBuilder.js:36:7)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+  reason: 'expected array value',
+  code: 'INVALID_ARGUMENT',
+  arg: 'initOwners',
+  coderType: 'array',
+  value: undefined }
+[33m[nodemon] 1.18.9[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app.js`[39m

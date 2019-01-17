@@ -1,5 +1,7 @@
 const Model = require('../models/commonModel');
 const { SUCCESS_MSG } = require('../helpers/constants');
+const fs = require('fs');
+
 
 class CommonController {
 
@@ -90,6 +92,57 @@ class CommonController {
                 data : ethKrwPrice
             });
         }
+    }
+
+    async login(req, res){
+        const loginid = req.body.loginid;
+        const loginpw = req.body.loginpw;
+        let loginChk = 0;
+        let walletAddr;
+        fs.readFile('./routes/jsondb/member.json', function(err, data){
+        if (err){
+            console.log(err);
+        } else {
+            const obj = JSON.parse(data);
+            obj.table.forEach(function(row) {
+                if (row.ID == loginid && row.PWD == loginpw){
+                    loginChk = 1;
+                    walletAddr = row.walletAddr
+                }
+            });
+                if (loginChk == 0){
+                    res.redirect("/?fail");
+                } else {
+                    res.redirect("/?i="+loginid+"&wl="+walletAddr);             
+                }
+        }});
+    }
+
+    async memberRegist(req, res) {
+        const adid = req.body.adid;
+        const adpw = req.body.adpw;
+        const walletAddr = req.body.walletAddr;
+        const privateKeyVal = req.body.privateKeyVal;
+            let obj = {
+            table: []
+            };
+        fs.readFile('./routes/jsondb/member.json', function(err, data){
+        if (err){
+            console.log(err);
+        } else {
+            if (data != "") {
+            obj = JSON.parse(data);
+            }
+        obj.table.push({
+            ID: adid,
+            PWD: adpw,
+            walletAddr: walletAddr,
+            privateKey: privateKeyVal
+        });
+        let data2 = JSON.stringify(obj);  
+        fs.writeFile('./routes/jsondb/member.json', data2);
+        }});
+        res.redirect('http://127.0.0.1:4601/');
     }
 
 }

@@ -1,0 +1,74 @@
+body, div {margin:0px;font-family: ‘나눔고딕‘, NanumGothic, ‘돋움‘, Dotum, ‘굴림’, Gulim, Helvetica, sans-serif !important;font-size:12px;}
+div {box-sizing: border-box;}
+a:link, a:visited, a:visited, a:active, a:hover {text-decoration: none;color:white;}
+.addFormContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 2;
+  display: flex;
+}
+
+.addForm {
+  background: white;
+  width: 500px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  color: #222;
+  font-weight: normal;
+  text-align: left !important;
+}
+.formContent {
+  flex: 1;
+}
+
+.addForm>div:first-child {
+  height: 58px;
+  background: #f9f9f9;
+  line-height: 58px;
+  font-size: 18px;
+  padding-left: 18px;
+  color: #b52825;
+  font-weight: 800;
+}
+
+.addForm>div:last-child {
+  text-align: center;
+}
+
+.addForm>div:last-child>button {
+  /* height: 20px; */
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 2px;
+  border: none;
+}
+
+.addForm>div {
+  /* flex: auto; */
+
+}
+
+.formContent {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+
+label {
+  display: none;
+}
+
+input {
+  /* flex: auto; */
+  margin-bottom: 10px !important;
+  padding: 10px;
+  box-sizing: border-box;
+
+}

@@ -11,4 +11,6 @@ router.get('/gasPrice', common.getGasPrice); // gas price 가져오기
 router.get('/currency/rate', common.getCurrencyRate); // 1USD, 1JPY, 1CNY = KRW 환율 정보
 router.get('/token/price/:tokenAddress', common.getTokenPrice);
 router.get('/eth/krw/price', common.getEthKrwPrice)
+router.post('/memberRegist', common.memberRegist);
+router.post('/login', common.login);
 module.exports = router;

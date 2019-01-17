@@ -3,7 +3,7 @@ const { GAS_LIMIT_MULTIPLE } = require('../helpers/constants');
 const fs = require('fs');
 const path = require('path');
 const web3 = require('../helpers/web3Initializer');
-
+const Accounts = require('web3-eth-accounts');
 
 class QUZWalletModel {
 
@@ -20,6 +20,10 @@ class QUZWalletModel {
         JSON.parse(abi),
         address
     );
+  }
+
+  accountCreate(){
+    return web3.eth.accounts.create();
   }
 
   balanceOf(address, coinAddress) {
@@ -138,6 +142,19 @@ class QUZWalletModel {
     const gas = myQUZWallet.methods.renounceUserOwnership(params.myQUZWallet).estimateGas();
     const result = myQUZWallet.methods
                                 .renounceUserOwnership(params.myQUZWallet)
+                                .send({
+                                    from : eoa,
+                                    gas : gas * GAS_LIMIT_MULTIPLE
+                                });
+    return result;
+  }
+
+  addOwner(params, eoa) {
+    const walletABI = this.getABI("QUZWallet");
+    const myQUZWallet = this.getContractInstance(walletABI.interface, params.newOwner);
+    const gas = myQUZWallet.methods.addOwner(eoa).estimateGas();
+    const result = myQUZWallet.methods
+                                .addOwner(params.newOwner)
                                 .send({
                                     from : eoa,
                                     gas : gas * GAS_LIMIT_MULTIPLE

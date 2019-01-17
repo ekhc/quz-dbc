@@ -6,7 +6,8 @@ module.exports = {
     CONTRACTS : {
         'QUZ' : {
             name : 'QUZCoin',
-            address : '0x0138f07305856E5c43829B1F402238ABD6667F20'
+            address : '0x0138f07305856E5c43829B1F402238ABD6667F20'  // Origin
+            //address : '0x3D35528B0D9da08a61DC05ca786Da778d430029e'   // Banker
             //address : '0x55667F3a8B189D10C77De248035a1D8754e18065'
             //address : '0x61e292Fe374Ff39419A88a8572A3DcC769e053D7' 강사님 주소 
         },
