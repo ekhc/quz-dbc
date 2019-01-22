@@ -14,6 +14,10 @@ module.exports = {
         //'QUZ_WALLET' : {
         'QUZWallet' : {
             name : 'QUZWallet'
+        },
+        'JamQuiz' : {
+            name : 'JamQuiz'
+            address : '0x0138f07305856E5c43829B1F402238ABD6667F20'  // Origin
         }
     },
     INFO_API : {
